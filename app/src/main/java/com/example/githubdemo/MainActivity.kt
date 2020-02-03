@@ -11,5 +11,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toast.makeText(this,"mishal",Toast.LENGTH_LONG).show()
+
+        Toast.makeText(this,"mishal",Toast.LENGTH_LONG).show()
+
     }
 }
